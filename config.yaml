@@ -1,0 +1,4 @@
+theme: "hugo-PaperMod"
+baseURL: https://brownhr.io/introgis
+languageCode: en-us
+title: "GHY 3812: Intro to GIS"
